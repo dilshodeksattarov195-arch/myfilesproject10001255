@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercave",
+        "uuid": 9927050,
+        "checksum": "rktwc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
